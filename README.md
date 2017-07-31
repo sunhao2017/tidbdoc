@@ -11,7 +11,7 @@
 
 [6. TiKV 启动报错：cluster ID mismatch](http://t.cn/R95ttlI)
 
-[7. 出现 transaction too large 报错](http://t.cn/R9tKQaG)
+[7. 出现 transaction is too large 报错](http://t.cn/R9tKQaG)
 
 [8. 数据盘不能使用 xfs 的原因](http://t.cn/R95VtbL)
 
@@ -19,4 +19,4 @@
 
 [10. select count(*) 较慢]( http://t.cn/R9tKnfa)
 
-[11. 如果使用 ansible 对 TiDB 进行滚动升级](http://t.cn/R95t2Hh)
+[11. 如何使用 ansible 对 TiDB 进行滚动升级](http://t.cn/R95t2Hh)
