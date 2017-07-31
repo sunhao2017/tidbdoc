@@ -1,4 +1,4 @@
-# 常见 FAQ
+# 最常见的一些问题 FAQ
 [1. 事务原理](http://t.cn/RaxOmRZ)
 
 [2. 偏 OLAP 需求的 TiDB 优化(含 TiDB 专用系统变量和语法)](http://t.cn/R9vVjfm)
@@ -9,14 +9,14 @@
 
 [5. TiDB 权限管理](http://t.cn/R9vxv6Y)
 
-[6. 重安集群 Cluster 发现 mismatch](http://t.cn/R95ttlI)
+[6. TiKV 启动报错：cluster ID mismatch](http://t.cn/R95ttlI)
 
 [7. 出现 transaction too large 报错](http://t.cn/R9tKQaG)
 
-[8. 数据目录不能使用 xfs](http://t.cn/R95VtbL)
+[8. 数据盘不能使用 xfs 的原因](http://t.cn/R95VtbL)
 
 [9. TiKV 调优方法](http://t.cn/R95cHJu)
 
 [10. select count(*) 较慢]( http://t.cn/R9tKnfa)
 
-[11. ansible 升级](http://t.cn/R95t2Hh)
+[11. 如果使用 ansible 对 TiDB 进行滚动升级](http://t.cn/R95t2Hh)
