@@ -21,4 +21,4 @@
 
 [11. 如何使用 ansible 对 TiDB 进行滚动升级](http://t.cn/R95t2Hh)
 
-[12. 如何备份恢复 TiDB？](faq/faq-add.md)
+[12. 如何备份恢复 TiDB？](faq/faq-add.md#如何备份恢复)
